@@ -6,8 +6,8 @@ This repository contains the organization profile and assets for [Lightstack](ht
 
 ## Contents
 
-- `profile/README.md` - Organization profile displayed on our [GitHub page](https://github.com/lightstack-dev)
-- `assets/` - Logo and brand assets
+- `profile/README.md` -- Organization profile displayed on our [GitHub page](https://github.com/lightstack-dev)
+- `assets/` -- Logo and brand assets
 
 ## About Lightstack
 
