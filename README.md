@@ -1,3 +1,5 @@
+![Lighstack logo](https://raw.githubusercontent.com/lightstack-dev/.github/refs/heads/main/assets/lighstack-logo-2025-08.svg)
+
 # Lightstack Organization
 
 This repository contains the organization profile and assets for [Lightstack](https://github.com/lightstack-dev).
