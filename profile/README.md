@@ -4,7 +4,7 @@
 
 **Skip the boilerplate. Start innovating.**
 
-We believe developers shouldn't have to rebuild the same foundation over and over for every single project.
+We believe developers shouldn't have to rebuild the same foundation over and over again for every single project.
 
 Lightstack is a development accelerator for the [Nuxt](https://nuxt.com/) ecosystem. We provide opinionated-but-flexible stacks and modules that get you from idea to working app in minutes, not days.
 
