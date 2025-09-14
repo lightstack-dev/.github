@@ -13,7 +13,7 @@ This repository contains the organization profile and assets for [Lightstack](ht
 
 Lightstack provides production-ready tools for shipping Nuxt applications. Visit our main projects:
 
+- [nuxt-final-auth](https://github.com/lightstack-dev/nuxt-final-auth) -- The final auth solution for Nuxt
 - [nuxt-starter](https://github.com/lightstack-dev/nuxt-starter) -- Complete starter template
-- [nuxt-auth-ui](https://github.com/lightstack-dev/nuxt-auth-ui) -- Auth UI components
 
 For more information, visit [lightstack.dev](https://lightstack.dev).
