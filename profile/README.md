@@ -18,13 +18,17 @@ Perfect for launching fast and scaling confidently. Use what you need, customize
 
 # 📦 Our Kit
 
+## [cli](https://github.com/lightstack-dev/cli)
+
+Development and deployment orchestrator. Bridge the gap between `localhost` and production with automated deployments, SSL setup, and BaaS orchestration.
+
 ## [nuxt-starter](https://github.com/lightstack-dev/nuxt-starter)
 
-Complete development-to-production stack with Docker Compose. Deploy to any VPS.
+Complete development-to-production stack with Docker Compose. Auth, deployment, and infrastructure solved. Deploy to any VPS.
 
-## [nuxt-auth-ui](https://github.com/lightstack-dev/nuxt-auth-ui)
+## [nuxt-final-auth](https://github.com/lightstack-dev/nuxt-final-auth)
 
-Drop-in auth components powered by [Logto](https://logto.io/). Login flows in minutes.
+Drop-in auth powered by [Supabase](https://supabase.com/). Get auth flows in minutes.
 
 # 📄 License
 
